@@ -43,6 +43,10 @@
     "zone": {
       "address": 16776720,
       "type": "|u1"
+    },
+    "speed_x": {
+      "address": 16764944,
+      "type": ">u2"
     }
   }
 }
